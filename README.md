@@ -1,6 +1,6 @@
 # Air Quality Analysis and Prediction
 
-![Project Banner](IMAGE_URL_HERE)
+![Dataset Cover](https://github.com/ManasBhise/ImpactX/blob/main/dataset-cover.jpg)
 
 ## Skills & Technologies Used
 
