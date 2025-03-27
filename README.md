@@ -1,4 +1,4 @@
-# Air Quality Analysis and Prediction
+# Air Quality Analysis
 
 ![Dataset Cover](https://github.com/ManasBhise/ImpactX/blob/main/dataset-cover.jpg)
 
